@@ -1,0 +1,201 @@
+* { margin: 0 auto; font-family: sans-serif; }
+
+body {
+     margin: 0 auto; 
+    background: rgb(173, 173, 173);
+    }
+    
+
+
+   
+header {
+    height: 225px;
+    width: 100%;
+    background-color: #282c34;
+    top: 0%;
+}
+
+.firstrow{
+    background-color: burlywood;
+    height: 220px;
+    width: 220px;
+}
+.secondrow{
+    width: 200px;
+    height: 220px;
+}
+
+.txt{
+    width: 100%px;
+    height: 100px;
+}
+
+#name {
+    font-family: 'Handlee', cursive;
+    margin-left: 20px;
+    color: rgb(255, 255, 255);
+    padding-top: 26px;;
+    font-size: x-large;
+    /* float: left; */   
+}
+
+.contact{
+   
+    padding-top: 6px;
+    float: left;
+    font-size: 18px;
+    padding-bottom: 30px;
+    color: rgb(78, 171, 184);    
+} 
+
+.font{
+    font-family: 'Handlee', cursive;
+}
+
+.img {
+    height: 168px;
+    width: 138px;
+    margin-left: 100px;
+    border-radius: 2px;
+    float: left;
+}
+
+main {
+    width: 120%;
+    height: 100%;
+}
+
+.leftPart{
+    margin-top:10px ;
+    margin-left: 10px;
+    height: 900px;
+    width: 250px;
+    background-color: white;
+    float: left;
+}
+
+.rightPart{
+    margin-top:10px ;
+    margin-left: 10px;
+    height: 900px;
+    width: 1070px;
+    background-color: white;
+    float: left;
+}
+
+h4{    
+    border-bottom: 18px solid#282c34;
+    border-left: 0px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0px;
+    width: 160px;
+    margin-left: 0px;
+    color: white;
+    padding-left: 5px;
+    margin-top: 10px;
+    font-family: 'Righteous', cursive;
+}
+
+h5{
+    width: 700px;
+    
+    text-align: left;
+    margin-left: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile{
+    font-size: 14px;
+    height: 97px;
+    width: 845px;
+    margin-left: 20px;
+    text-align: justify;
+    color: cornsilk;
+}
+
+.trapezoid {
+	border-bottom: 50px solid#282c34;
+	border-left: 0px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 150px;
+}
+
+
+hr.solid {
+    border-top: 3px solid #282c34;
+    width: 350px;
+    float: left;
+  }
+
+hr.rounded {
+    border-top: 4px solid#282c34;
+    border-radius: 3px;
+    float: left;
+    width: 300px;
+    
+    
+  }
+
+.content{
+      margin-top: 15px;
+      margin-left: 8px;
+      margin-right: 8px;
+      margin-bottom: 20px;
+      text-align:justify;
+      font-family: 'Raleway', sans-serif;
+      /* 
+       */
+
+}
+.contentbold{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+     
+    
+
+}
+  
+.personalcontent{
+    margin-left: 5px;
+
+}
+.tabcontent{
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.table{
+    float: left;
+    margin-left: 15px;
+    height: 308px;
+    width: 747px;
+    /* background-color: darkslategray; */
+    background-color: rgb(238, 238, 238);
+    border-radius: 5px;
+}
+
+.tr{
+    height: 90px;
+     width: 50px;
+    font-family: 'Handlee', cursive;
+}
+
+.trh{
+    height: 40px;
+    width: 80px;
+    font-weight: bolder;
+
+}
+
+.rightcontent{
+    margin-top: 345px;
+    margin-right: 20px;
+      
+}
+
+.icons{
+    height: 20px;
+    width: 20px;
+    float:left;
+}
